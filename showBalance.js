@@ -1,4 +1,4 @@
-/ Require the use of IOTA library
+// Require the use of IOTA library
 const IOTA = require("iota.lib.js")
 
 // Create a new instance of the IOTA class object. 
